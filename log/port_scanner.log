@@ -1,0 +1,150 @@
+﻿1708624876.119747;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708624876.1962476;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: 'module' object is not callable
+1708628432.4559872;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708628432.5539873;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708628453.2720926;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708628453.3680916;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708628464.4000676;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708628464.4680657;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708629540.1321068;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708629540.2061067;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'target' where it is not associated with a value
+1708629579.7239256;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708629579.794925;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'target' where it is not associated with a value
+1708629591.7354584;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708629733.7567952;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708629733.8307917;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'target' where it is not associated with a value
+1708629755.1045713;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708629988.856314;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708629988.940814;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'target' where it is not associated with a value
+1708630006.3988984;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708718466.6937408;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708718487.2200937;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708718528.8435316;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708718532.770585;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708718778.256356;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708718784.1564128;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708719122.4507484;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708719159.375615;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708719836.639811;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708719842.489676;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: invalid literal for int() with base 10: '__commento__'
+1708719852.505715;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708719880.0880187;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708719994.2989528;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708720027.0556037;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708720216.485465;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708720243.885399;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708722228.1709054;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708722228.2429082;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: list_ip_usable() missing 1 required positional argument: 'file_path'
+1708722249.0527866;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708722969.013985;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708723669.04193;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708724016.8533633;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708724021.8926177;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708724717.4016607;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708724754.0076172;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708725319.7678883;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708725342.3695781;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: name 'get_ports_info' is not defined
+1708725385.9033177;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708725409.8755665;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: name 'get_ports_info' is not defined
+1708725425.2265894;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708725449.3704875;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: name 'get_ports_info' is not defined
+1708725492.3859794;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708725516.4597855;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708725539.0187566;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708725562.9396255;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708770845.7306;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708770860.921021;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: No module named 'asttokens'
+1708770962.634458;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708770977.8162072;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: No module named 'asttokens'
+1708771123.1434314;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708771138.3142655;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: No module named 'asttokens'
+1708771157.551084;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708771172.7198412;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: No module named 'asttokens'
+1708771306.4969788;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708771381.4308565;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708771385.9672382;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708771480.310369;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708771976.718021;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708772109.9867213;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708772141.4471238;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708772156.6546397;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708772167.341009;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708772182.5356138;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708772239.7646716;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708772242.8945594;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708772297.467144;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708772329.6677814;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708772376.1377974;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708772432.6395357;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708772434.6731527;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708772440.8078535;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708772480.121346;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708772517.1893578;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708772574.6644332;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708772706.8941946;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708772734.9239137;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708772734.9919152;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: 'NoneType' object has no attribute 'items'
+1708772966.2466202;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708772966.3351202;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: 'NoneType' object has no attribute 'items'
+1708773056.8071365;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708773129.1456695;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708773149.3324878;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708773185.0898664;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708773258.62815;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708773306.4226108;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708773351.442814;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708773359.053538;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708773500.9471576;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708773513.0069027;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708773560.9723234;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708773580.2539637;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708773637.5072095;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708773663.4018786;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708773719.5104885;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708773890.2409916;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708773936.5346239;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708773966.2247164;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708773977.383857;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708774010.5215037;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708774032.7202616;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708774102.4439826;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708774201.2037854;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708774286.9147427;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708774315.0201075;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708774365.5856407;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708774398.778823;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708774522.9140549;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708774538.0967827;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708774550.0239236;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708774565.2070603;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708774603.4176939;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708774618.6143334;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708774674.3562937;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708774700.5911138;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708774751.914582;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708774767.1030917;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708774869.4779892;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708774884.6790001;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708774956.5751762;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708774971.7635396;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708774989.5084436;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708775004.707613;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Error: cannot access local variable 'open_ports' where it is not associated with a value
+1708775055.5860927;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708775081.8295817;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708775124.2906406;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708775150.5254662;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708775243.8069003;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708775270.065558;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708775313.0686707;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708775342.5532978;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708775396.720317;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708775441.1981738;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708789166.5383499;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708789265.5725877;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708789482.427768;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708790186.2138357;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708804168.8965023;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708804290.7115824;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708804341.262315;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good
+1708804387.6346724;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Start
+1708804435.191141;pc-dedo;Dedo;Windows;10;10.0.19045;AMD64;Good

@@ -1,0 +1,14 @@
+{    
+    "1": "tcpmux",
+    "79": "finger",
+    "80": "www-http",
+    "82": "xfer",
+    "83": "mit-ml-dev",
+    "84": "ctf",
+    "125": "locus-map",
+    "135": "epmap",
+    "139": "netbios-ssn",
+    "143": "imap",
+    "144": "uma",
+    "445": "microsoft-ds"
+}
